@@ -1,0 +1,2 @@
+# minecraft_quests_trains
+使用google翻譯將minecraft ftbquests內容繁中化
