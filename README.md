@@ -1,6 +1,6 @@
 # Minecraft Quests Translator
 
-此工具可自動將 Minecraft FTB 任務模組的 `.snbt` 任務文字翻譯成繁體中文，並保留原始內容，便於玩家使用及開發者調整。
+此工具可自動將 Minecraft FTB 任務模組的 `.snbt` 任務文字翻譯成繁體中文，便於玩家閱讀。
 
 ---
 
@@ -57,7 +57,7 @@ python app.py
 ```
 
 3. 程式會自動解析每個任務內容（title、subtitle、description、text）並附加翻譯。
-4. 翻譯內容會儲存回原始檔案，格式為原文在後，翻譯在前。
+4. (description、text)翻譯內容會儲存回原始檔案，格式為原文在後，翻譯在前。
 
 ---
 
